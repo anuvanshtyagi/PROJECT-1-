@@ -1,0 +1,13 @@
+p{
+    colour : blue;
+    hi{ colour: rgb(0,255,0);
+    p{ colour: rgb(0,0,255);
+}
+}
+
+
+
+body{
+
+    background-colour: lightblue;
+}
